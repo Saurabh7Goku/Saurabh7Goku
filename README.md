@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh7Goku
 - 👀 I’m interested in Data Science, Machine Learning and Artificial intelligence.
-- 🌱 I’m currently learning machine learning and Computer Vision. 
+- 🌱 I’m currently learning Deep learning and Computer Vision. 
 - 💞️ I’m looking to collaborate on ML and data analytics projects.
 - 📫 How to reach me ----> Gmail ---> saurabhgk7@gmail.com.                     
 - 📫 LinkedIn ----> https://www.linkedin.com/in/saurabh-singh-682a811b0/
