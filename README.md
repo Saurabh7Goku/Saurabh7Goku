@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and Artificial intelligence.
 - 🌱 I’m currently learning MLOps with AWS and Azure. 
 - 💞️ I’m looking to collaborate on ML and data analytics projects.
+- 👀 learning the tech the LLMs Large Language Models.
 - 📫 How to reach me ----> Gmail ---> saurabhgk7@gmail.com.                     
 - 📫 LinkedIn ----> https://www.linkedin.com/in/saurabh-singh-682a811b0/
 <!---
