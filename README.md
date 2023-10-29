@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh7Goku
-- 👀 I’m interested in Data Science, Machine Learning and Artificial intelligence.
-- 🌱 I’m currently learning MLOps with AWS and Azure. 
+- 👀 I’m interested in Data Analysis, Machine Learning and Artificial intelligence.
+- 🌱 I’m currently getting my hands on LLM's Models. 
 - 💞️ I’m looking to collaborate on ML and data analytics projects.
 - 👀 learning the tech the LLMs Large Language Models.
 - 📫 How to reach me ----> Gmail ---> saurabhgk7@gmail.com.                     
