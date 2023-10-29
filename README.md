@@ -19,8 +19,8 @@
 
 <div class="container">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
 </div>
 
 
