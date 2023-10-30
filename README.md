@@ -11,17 +11,18 @@
 
 - 💞️ I’m looking to collaborate on ML and data analytics projects.
 
-- 👀 learning the tech the LLMs Large Language Models.
+- 👀 learning the  LLM's `Large Language Models`.
 
 - 📫 How to reach me ----> Gmail ---> saurabhgk7@gmail.com.             
 
 - 📫 LinkedIn ----> https://www.linkedin.com/in/saurabh-singh-682a811b0/
 
 <div class="container">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 400px; height: 350px;" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 600px; height: 550px;" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 600px; height: 550px;" /></p>
 </div>
+
 
 
 <!---
