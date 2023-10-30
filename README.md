@@ -18,9 +18,9 @@
 - 📫 LinkedIn ----> https://www.linkedin.com/in/saurabh-singh-682a811b0/
 
 <div class="container">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 400px; height: 350px;" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 600px; height: 550px;" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" style="width: 600px; height: 550px;" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh7Goku&show_icons=true&locale=en&layout=compact" alt="Saurabh Singh" /></p>
 </div>
 
 
